@@ -1,1 +1,1 @@
-# Garbage-Classification-and-Sacnning
+# Garbage-Classification-and-Scanning
